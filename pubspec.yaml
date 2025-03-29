@@ -1,7 +1,7 @@
 name: device_utils
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Rvkt/device_utils.git
 
 environment:
   sdk: ^3.6.1
